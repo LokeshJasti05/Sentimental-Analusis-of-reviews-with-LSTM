@@ -1,0 +1,5 @@
+first after initilizing the code , i split the dataset into traning data and test data
+then i tokenized the data
+then i built the model
+compiled it and trained it with the given dataset
+tokenized it again and ran a check if it is working or not.
